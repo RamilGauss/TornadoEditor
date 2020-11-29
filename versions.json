@@ -10,7 +10,7 @@
                 "MinorVersion": 1,
 
                 "Build": 1,
-                "DownloadUrl": "https://github.com/RamilGauss/TornadoEditor/archive/Dummy.zip"
+                "DownloadUrl": "https://github.com/RamilGauss/TornadoEditor/releases/download/Dummy/TornadoEditor_v0.1b1_Win32.zip"
             },
             "LaunchPath": "./Test.exe"
         }
