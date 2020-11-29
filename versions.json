@@ -1,15 +1,18 @@
 {
-    "VersionList": [
+    "Editors": [
         {
-            "Info": [
-                "DummyVersion",
-                "For Hub testing"
-            ],
-            "MajorVersion": 0,
-            "MinorVersion": 0,
+            "Version": {
+                "Info": [
+                    "DummyVersion",
+                    "For Hub testing"
+                ],
+                "MajorVersion": 0,
+                "MinorVersion": 1,
 
-            "Build": 0,
-            "DownloadUrl": "https://github.com/RamilGauss/TornadoEditor/archive/Dummy.zip"
+                "Build": 1,
+                "DownloadUrl": "https://github.com/RamilGauss/TornadoEditor/archive/Dummy.zip"
+            },
+            "LaunchPath": "./Test.exe"
         }
     ]
 }
