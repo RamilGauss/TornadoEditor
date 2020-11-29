@@ -1,5 +1,5 @@
 {
-    "Editors": [
+    "ApplicationInfoList": [
         {
             "Version": {
                 "Info": [
@@ -10,7 +10,7 @@
                 "MinorVersion": 1,
 
                 "Build": 1,
-                "DownloadUrl": "https://github.com/RamilGauss/TornadoEditor/releases/download/Dummy/TornadoEditor_v0.1b1_Win32.zip"
+                "DownloadUrl": "https://github.com/RamilGauss/TornadoEditor/releases/download/Dummy/TornadoEditor_v0.1.b1_Win32.zip"
             },
             "LaunchPath": "./Test.exe"
         }
